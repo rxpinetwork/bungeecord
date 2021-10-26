@@ -34,6 +34,7 @@
  - Chat messages Module
  - Auto reconnect
  - Supported server versions: `1.8 - 1.17.1`
+ - Can be used to uptime Falix node for 24/7
  
  ### License
  [MIT](https://github.com/Arny4/Afk-Bot/blob/main/LICENSE)
